@@ -1,1 +1,21 @@
-# kku-cs-csl
+# Khon Kaen University - Computer Science Citation Style Language
+
+Abbreviation: **KKUCS**
+
+## Installation
+
+- Mendeley
+  
+  ```
+  View -> Citation Style -> More Styles...
+
+  On Get More Styles tab enter the URL 
+
+  https://csl.mendeley.com/styles/563370651/kkucs
+
+  to download
+  ```
+
+## Disclaimer
+  
+  This Citation Style mainly based on APA citation style.
