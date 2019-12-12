@@ -15,6 +15,14 @@ Abbreviation: **KKUCS**
 
   to download
   ```
+- Zotero
+  ```
+  ...
+  ```
+
+## Citation & Bibliography Examples
+
+  ![png](./docs/bibliography.png)
 
 ## Disclaimer
   
