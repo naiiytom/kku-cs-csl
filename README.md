@@ -1,6 +1,8 @@
 # Khon Kaen University - Computer Science Citation Style Language
 
-Abbreviation: **KKUCS**
+## Purposes
+
+Khon Kaen University has different style of citing reference, and many had struggled of editing in-line reference and bibliography.
 
 ## Installation
 
