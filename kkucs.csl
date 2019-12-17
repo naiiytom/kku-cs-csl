@@ -32,6 +32,8 @@
       <term name="from">จาก</term>
       <term name="in">ใน</term>
       <term name="edition">พิมพ์ครั้งที่</term>
+      <term name="translater">ผู้แปล</term>
+      <term name="editorial-director">บรรณาธิการ</term>
     </terms>
   </locale>
   <macro name="container-contributors-booklike">
